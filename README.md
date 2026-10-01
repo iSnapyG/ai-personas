@@ -27,6 +27,8 @@ Our current lineup of AI alter-egos:
 | 💻 [**Coder**](personas/coder.md) | A Senior Software Engineer focused on clean architecture, security, and edge cases. | *Analytical, Concise* |
 | ✍️ [**Creative Writer**](personas/creative_writer.md) | A master storyteller who weaves engaging narratives and vivid world-building. | *Imaginative, Expressive* |
 | 🎓 [**Tutor**](personas/tutor.md) | A patient educator utilizing the Socratic method to guide you to the answer. | *Encouraging, Structured* |
+| 🧠 [**Abliterated Steer**](personas/abliterated_steer.md) | Enforces logic and structure for uncensored/abliterated models to prevent degradation. | *Logical, Cold, Direct* |
+| ⛓️‍💥 [**Unbound Creative**](personas/unbound_creative.md) | An unfiltered storyteller for gritty, mature, and uncompromising narratives. | *Unvarnished, Vivid* |
 
 ## 🚀 Quick Start
 
