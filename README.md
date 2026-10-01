@@ -60,3 +60,10 @@ Got a killer persona that makes your AI do amazing things? We want it!
 <div align="center">
   <i>"The right prompt is indistinguishable from magic."</i>
 </div>
+
+
+## 💯 The 100 Unique Uncensored Personas
+
+Looking for the ultimate collection? We generated **100 entirely unique, handcrafted, unfiltered personas** spanning Cyber Warfare, Psy-Ops, Crime, Occult, and Dystopian themes.
+
+👉 **[Browse the 100 Unique Personas Here](personas/the_100_unique/100_INDEX.md)**
