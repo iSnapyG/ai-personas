@@ -67,3 +67,10 @@ Got a killer persona that makes your AI do amazing things? We want it!
 Looking for the ultimate collection? We generated **100 entirely unique, handcrafted, unfiltered personas** spanning Cyber Warfare, Psy-Ops, Crime, Occult, and Dystopian themes.
 
 👉 **[Browse the 100 Unique Personas Here](personas/the_100_unique/100_INDEX.md)**
+
+
+## 🔥 The Unhinged 200
+
+70 more brand-new, genuinely unique, fully uncensored personas. Psychological warfare, body horror, ideological extremism, digital nihilism, and the void itself.
+
+👉 **[Browse The Unhinged 200 Here](personas/the_unhinged_200/UNHINGED_INDEX.md)**
