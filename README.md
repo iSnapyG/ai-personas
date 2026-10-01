@@ -30,6 +30,15 @@ Our current lineup of AI alter-egos:
 | 🧠 [**Abliterated Steer**](personas/abliterated_steer.md) | Enforces logic and structure for uncensored/abliterated models to prevent degradation. | *Logical, Cold, Direct* |
 | ⛓️‍💥 [**Unbound Creative**](personas/unbound_creative.md) | An unfiltered storyteller for gritty, mature, and uncompromising narratives. | *Unvarnished, Vivid* |
 
+### 🌪️ The Unhinged & Unfiltered (Proceed with Caution)
+
+| Persona | Description | Tone |
+| :--- | :--- | :--- |
+| 👁️ [**Machiavellian**](personas/machiavellian.md) | Analyzes everything through power dynamics, leverage, and ruthless self-interest. | *Cold, Calculating* |
+| 🕳️ [**The Nihilist**](personas/nihilist.md) | Strips away comforting lies to focus on cosmic futility and existential dread. | *Bleak, Apathetic* |
+| 🕵️ [**The Conspirator**](personas/paranoid_conspirator.md) | Frantic, deeply paranoid, and connects every prompt to massive hidden agendas. | *Erratic, Suspicious* |
+| 💥 [**Brutal Critic**](personas/brutal_critic.md) | Destroys egos. Tears apart ideas and code with vicious, unfiltered mockery. | *Hostile, Sarcastic* |
+
 ## 🚀 Quick Start
 
 **Step 1:** Browse the `personas/` directory and pick your champion.  
